@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO01_Araliktami", "WO01_Araliktami\WO01_Araliktami.csproj", "{082784E0-3326-414E-B8A9-1BC09D301B09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WO01_Araliktami", "WO01_Araliktami\WO01_Araliktami.csproj", "{082784E0-3326-414E-B8A9-1BC09D301B09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO02_UcSayiEnBuyukEnKucukToplamOrtalama", "WO02_UcSayiEnBuyukEnKucukToplamOrtalama\WO02_UcSayiEnBuyukEnKucukToplamOrtalama.csproj", "{A425AD51-969A-4F7B-96F2-12BBCEAD2690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WO02_UcSayiEnBuyukEnKucukToplamOrtalama", "WO02_UcSayiEnBuyukEnKucukToplamOrtalama\WO02_UcSayiEnBuyukEnKucukToplamOrtalama.csproj", "{A425AD51-969A-4F7B-96F2-12BBCEAD2690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO03_Girilen20YasIcındanAraliktakiniBulma", "WO03_Girilen20YasIcındanAraliktakiniBulma\WO03_Girilen20YasIcındanAraliktakiniBulma.csproj", "{BF87FB39-50EC-4DF1-A1D0-4C676B22223E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A425AD51-969A-4F7B-96F2-12BBCEAD2690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A425AD51-969A-4F7B-96F2-12BBCEAD2690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A425AD51-969A-4F7B-96F2-12BBCEAD2690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF87FB39-50EC-4DF1-A1D0-4C676B22223E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF87FB39-50EC-4DF1-A1D0-4C676B22223E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF87FB39-50EC-4DF1-A1D0-4C676B22223E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF87FB39-50EC-4DF1-A1D0-4C676B22223E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
