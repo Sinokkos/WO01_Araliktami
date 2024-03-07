@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WO02_UcSayiEnBuyukEnKucukTo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WO03_Girilen20YasIcındanAraliktakiniBulma", "WO03_Girilen20YasIcındanAraliktakiniBulma\WO03_Girilen20YasIcındanAraliktakiniBulma.csproj", "{BF87FB39-50EC-4DF1-A1D0-4C676B22223E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO04_SifirGireneKadarToplamVeOrtalama", "WO04_SifirGireneKadarToplamVeOrtalama\WO04_SifirGireneKadarToplamVeOrtalama.csproj", "{09350C9A-D817-473D-84F4-56F496460058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WO04_SifirGireneKadarToplamVeOrtalama", "WO04_SifirGireneKadarToplamVeOrtalama\WO04_SifirGireneKadarToplamVeOrtalama.csproj", "{09350C9A-D817-473D-84F4-56F496460058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WO05_NAdetSayininKarelerininToplami", "WO05_NAdetSayininKarelerininToplami\WO05_NAdetSayininKarelerininToplami.csproj", "{BB0EEE50-2890-44EC-BDF1-4B7E4ACBE6F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{09350C9A-D817-473D-84F4-56F496460058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09350C9A-D817-473D-84F4-56F496460058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09350C9A-D817-473D-84F4-56F496460058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0EEE50-2890-44EC-BDF1-4B7E4ACBE6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0EEE50-2890-44EC-BDF1-4B7E4ACBE6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0EEE50-2890-44EC-BDF1-4B7E4ACBE6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0EEE50-2890-44EC-BDF1-4B7E4ACBE6F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
