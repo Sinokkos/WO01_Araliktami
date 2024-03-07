@@ -6,10 +6,12 @@
         {
             // Klavyeden 0 değeri girinceye kadar girilen sayıların toplamını ve ortalamasını bulan pp
 
-            int sayi = 0, toplam = 0, adet=0;
+            int sayi = 0, adet = 0;
+            double toplam = 0;
 
             Console.WriteLine("Lütfen Sayı giriniz  :  ");
             sayi =Convert.ToInt32(Console.ReadLine());
+            adet++;
             toplam = sayi;
 
 
